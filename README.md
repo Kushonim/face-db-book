@@ -14,7 +14,7 @@ Simply download the files provided by the application's [repo](https://github.co
 To interact with the API, use an API testing tool like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to send HTTP requests to the endpoints for your user creation, thoughts, and reactions. With the added function of a friendlist, you can utilize all of the CRUD operations as needed and see how each request affects the data. Ultimately it's a fun API to mess around with and get in some practice for junior web devs like me.
 
 ## Screenshot/Demo
-Refer to the [demo video](https://drive.google.com/file/d/1OzlCOwlzraciStEscaAKdVkMwekzWA1s/view).
+Refer to the [demo video](https://drive.google.com/file/d/1T4Bo9jfgu4IFRFJeu0MZVfNIqDmI56hQ/view).
 
 ## License
 MIT License
